@@ -1,0 +1,5 @@
+{
+  "name": "PNG to WebP Converter",
+  "description": "A client-side image converter to efficiently change PNG files into the modern, size-optimized WebP format. Upload a PNG, adjust the quality, and download the smaller WebP file instantly.",
+  "requestFramePermissions": []
+}
